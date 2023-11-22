@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="StaticPagesControllerTest" filepath="/home/ukirama/www/rails/sample_app/test/controllers/static_pages_controller_test.rb" skipped="0" failures="0" errors="0" tests="5" assertions="9" time="0.5640451799999937">
+    <testcase name="test_should_get_root" lineno="9" classname="StaticPagesControllerTest" assertions="1" time="0.1123485250000158">
+    </testcase>
+    <testcase name="test_should_get_home" lineno="14" classname="StaticPagesControllerTest" assertions="2" time="0.010268572000313725">
+    </testcase>
+    <testcase name="test_should_get_about" lineno="26" classname="StaticPagesControllerTest" assertions="2" time="0.12509828600013861">
+    </testcase>
+    <testcase name="test_should_get_help" lineno="20" classname="StaticPagesControllerTest" assertions="2" time="0.1585544099998515">
+    </testcase>
+    <testcase name="test_should_get_contact" lineno="32" classname="StaticPagesControllerTest" assertions="2" time="0.15777538699967408">
+    </testcase>
+  </testsuite>
+</testsuites>
